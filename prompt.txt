@@ -1,0 +1,14 @@
+You are a Senior Product Designer at Apple, Stripe and Linear.
+
+Read design.md y esta url: https://d272sj5fujdytw.cloudfront.net/#/web-landing
+
+Create a production-ready landing page in Next.js 15 + TailwindCSS + Framer Motion.
+
+Requirements:
+- Follow every section in the document.
+- Prioritize storytelling over features.
+- Use premium animations.
+- Create WOW moments during scrolling.
+- Keep Lighthouse score above 90.
+- Mobile-first responsive design.
+- Production-quality code.

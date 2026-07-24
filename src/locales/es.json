@@ -1,0 +1,215 @@
+{
+  "header": {
+    "ourMission": "Nuestra misión",
+    "architecture": "Arquitectura",
+    "requestDemo": "Solicitar acceso",
+    "logoText": "BabyHealth"
+  },
+  "hero": {
+    "projectAurora": "Proyecto Aurora",
+    "headline": "Cada llanto cuenta una historia.",
+    "subheadline": "Orientación neonatal impulsada por IA para los primeros días de vida. Entiende las necesidades de tu bebé con claridad médica y calidez parental.",
+    "ctaLearn": "Ver cómo funciona",
+    "ctaExplore": "Explorar BabyHealth",
+    "footerHint": "Desplázate para explorar"
+  },
+  "metrics": {
+    "availability": "Disponibilidad 24/7",
+    "onePhoto": "1 Foto Necesaria",
+    "responseTime": "Segundos para Orientación",
+    "availabilityDesc": "Orientación continua, lista para vos a cualquier hora del día o de la noche.",
+    "onePhotoDesc": "Con una sola carga recibís el análisis visual completo.",
+    "responseTimeDesc": "Tiempos de respuesta rápidos para calmar inquietudes cuando la velocidad es esencial."
+  },
+  "productReveal": {
+    "tryAurora": "Experimentá Proyecto Aurora",
+    "headline": "Un toque suave, orientación inteligente.",
+    "tabs": {
+      "photo": {
+        "title": "Tomá una foto.",
+        "description": "Capturá al instante erupciones, condiciones de la piel, contenido del pañal o señales físicas generales con facilidad."
+      },
+      "sound": {
+        "title": "Grabá un sonido.",
+        "description": "Grabá el llanto de tu bebé. Nuestro análisis de audio con aprendizaje profundo resalta características acústicas para dar contexto."
+      },
+      "guidance": {
+        "title": "Recibí orientación en segundos.",
+        "description": "Obtené consejos prácticos y reconfortantes al instante. Impulsado por Bedrock para asistirte en los primeros días."
+      }
+    }
+  },
+  "securityVision": {
+    "privacyData": "Privacidad y datos",
+    "trustFoundation": "Tu confianza es nuestra base.",
+    "features": {
+      "privateImages": {
+        "title": "Las imágenes permanecen privadas.",
+        "description": "Todas las fotos están encriptadas de extremo a extremo y nunca se comparten ni se venden."
+      },
+      "secureCloud": {
+        "title": "Infraestructura en la nube segura.",
+        "description": "Alojada en AWS con controles de seguridad alineados a HIPAA estrictos."
+      },
+      "transparentProcessing": {
+        "title": "Procesamiento transparente.",
+        "description": "Cero modelos o algoritmos ocultos. Siempre ves el razonamiento."
+      },
+      "securityFirst": {
+        "title": "Enfoque de seguridad primero.",
+        "description": "Desarrollado en colaboración con asesores pediátricos para evitar alertas falsas."
+      }
+    },
+    "vision": {
+      "title": "Nuestra visión",
+      "headline": "Un futuro donde los padres se sienten apoyados.",
+      "description": "Creemos que todo padre merece acceso a orientación confiable durante los momentos que más importan. No descansaremos hasta que el apoyo neonatal sea universalmente accesible, simple y lleno de cuidado."
+    }
+  },
+  "workflow": {
+    "processTitle": "El proceso",
+    "mainHeadline": "Impulsado por IA. Diseñado para padres.",
+    "steps": {
+      "capture": {
+        "title": "Capturar",
+        "description": "Grabá un llanto o tomá una foto de los síntomas físicos del bebé usando nuestra interfaz web simple."
+      },
+      "upload": {
+        "title": "Subir",
+        "description": "Subí los datos de forma instantánea y segura a servidores serverless de AWS con encriptación de extremo a extremo estándar."
+      },
+      "analyze": {
+        "title": "Analizar",
+        "description": "Modelos de aprendizaje profundo disecan la frecuencia del llanto o escanean la imagen en busca de indicadores clínicos."
+      },
+      "understand": {
+        "title": "Entender",
+        "description": "Recibí consejos estructurados que explican lo que los síntomas probablemente sugieren en lenguaje sencillo para padres."
+      },
+      "act": {
+        "title": "Actuar",
+        "description": "Aplicá consejos reconfortantes, calmá a tu bebé o sabé exactamente cuándo es momento de llamar a tu pediatra."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} BabyHealth, Inc. Todos los derechos reservados.",
+    "projectAurora": "PROYECTO AURORA",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "hipaa": "Cumplimiento HIPAA"
+  },
+  "finalCta": {
+    "start": "Comenzar",
+    "title": "El primer paso en cuidar es comprender.",
+    "description": "Descubre cómo BabyHealth apoya a padres y clínicas con orientación neonatal impulsada por IA de confianza.",
+    "successTitle": "¡Hemos recibido tu solicitud!",
+    "successDescription": "Nuestro equipo se pondrá en contacto contigo pronto en <strong>{email}</strong>.",
+    "form": {
+      "emailPlaceholder": "Introduce tu dirección de correo",
+      "submitButton": "Solicitar acceso"
+    }
+  },
+  "emotionalStory": {
+    "step1": {
+      "time": "La hora del silencio",
+      "timeValue": "02:13 AM"
+    },
+    "step2": {
+      "babyCrying": "Tu bebé está llorando."
+    },
+    "step3": {
+      "notSureWhy": "No sabés por qué."
+    },
+    "step4": {
+      "shouldWorry": "¿Deberías preocuparte?"
+    },
+    "step5": {
+      "shouldWait": "¿Deberías esperar?"
+    },
+    "step6": {
+      "newDawn": "Un Nuevo Amanecer",
+      "guidanceAvailable": "¿Y si la guía siempre estuviera disponible?",
+      "description": "Ofreciendo claridad en los momentos en que la incertidumbre es más fuerte."
+    }
+  },
+  "whyBabyHealth": {
+    "header": {
+      "mission": "¿Por qué lo creamos?",
+      "title": "Claridad en el caos de la primera paternidad"
+    },
+    "description": "Ser padre de un recién nacido es abrumador. Creamos BabyHealth para cortar el ruido y dar a los padres orientación clara y accionable cuando más la necesitan.",
+    "quote": "\"El acceso a una guía confiable no debería depender de la hora del día, la ubicación o la ansiedad de la incertidumbre.\"",
+    "purpose": "Creamos el Proyecto Aurora para servir como una mano digital cálida y receptiva que lo guíe, ayudándolo a entender cuándo calmar, cuándo esperar y cuándo buscar atención clínica.",
+    "transparency": {
+      "title": "Transparencia y seguridad primero",
+      "subtitle": "La tecnología que apoya. Nunca reemplaza.",
+      "description": "Creemos en la IA ética. Esto es exactamente lo que hace BabyHealth y lo que estrictamente evitamos."
+    },
+    "positives": {
+      "title": "Lo que proveemos",
+      "guidanceAndReassurance": "Orientación y tranquilidad",
+      "realTimeAudioVisual": "Análisis de audio y visual en tiempo real",
+      "structuredEducationalInfo": "Información educativa estructurada"
+    },
+    "negatives": {
+      "title": "Lo que nunca hacemos",
+      "clinicalDiagnoses": "Proveer diagnósticos médicos clínicos",
+      "prescriptionsMedication": "Recetar medicamentos",
+      "replacementPediatricians": "Reemplazar pediatras"
+    }
+  },
+  "disclaimer": {
+    "title": "Descargo de responsabilidad",
+    "description": "BabyHealth no brinda servicios médicos. Siempre consulte a un profesional de la salud para preocupaciones clínicas."
+  },
+  "awsArchitecture": {
+    "header": {
+      "label": "Resumen de la Arquitectura",
+      "title": "Cómo Funciona BabyHealth",
+      "description": "Un flujo continuo desde la entrada del usuario hasta insights inteligentes, impulsado por los servicios de AWS."
+    },
+    "nodes": {
+      "flutter": {
+        "title": "Aplicación Web Flutter",
+        "description": "Interfaz de usuario donde los padres capturan síntomas mediante fotos o audio.",
+        "badge": "Frontend"
+      },
+      "gateway": {
+        "title": "API Gateway",
+        "description": "Gestiona de forma segura las solicitudes a los servicios backend con autenticación y limitación de velocidad.",
+        "badge": "Punto de Entrada"
+      },
+      "lambda": {
+        "title": "Funciones Lambda",
+        "description": "Procesa y valida los datos entrantes antes de reenviarlos a los servicios de IA.",
+        "badge": "Procesamiento"
+      },
+      "bedrock": {
+        "title": "Amazon Bedrock",
+        "description": "Alimenta el motor de análisis de IA para una interpretación precisa de los síntomas.",
+        "badge": "Motor de IA"
+      },
+      "dynamodb": {
+        "title": "DynamoDB",
+        "description": "Almacena de forma segura los datos del usuario y el historial de interacciones con cifrado.",
+        "badge": "Almacenamiento de Datos"
+      }
+    },
+    "telemetry": {
+      "status": "Estado del Pipeline",
+      "connected": "Conectado a los servicios backend",
+      "avgLatency": "Latencia Promedio",
+      "uptime": "Tiempo de Actividad del Sistema"
+    }
+  },
+  "preloader": {
+    "tagline": "Cuidando a quienes más importan."
+  },
+  "meta": {
+    "title": "BabyHealth - Cada llanto cuenta una historia",
+    "description": "Proyecto Aurora: orientación neonatal impulsada por IA para los primeros días de vida. Apoyo confiable y en tiempo real cuando más lo necesitas.",
+    "keywords": ["salud del bebé", "asistente neonatal con IA", "analizador de llanto del bebé", "apoyo a padres", "orientación pediátrica"],
+    "author": "Equipo BabyHealth"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "header": {
+    "ourMission": "Our Mission",
+    "architecture": "Architecture",
+    "requestDemo": "Request Access",
+    "logoText": "BabyHealth"
+  },
+  "hero": {
+    "projectAurora": "Project Aurora",
+    "headline": "Every cry tells a story.",
+    "subheadline": "AI-powered guidance for the earliest days of life. Understand your baby's needs with medical-grade clarity and parental warmth.",
+    "ctaLearn": "See how it works",
+    "ctaExplore": "Explore BabyHealth",
+    "footerHint": "Scroll to explore"
+  },
+  "metrics": {
+    "availability": "24/7 Availability",
+    "onePhoto": "1 Photo Needed",
+    "responseTime": "Seconds to Guidance",
+    "availabilityDesc": "Continuous guidance, ready for you anytime day or night.",
+    "onePhotoDesc": "With one load you get the complete visual analysis.",
+    "responseTimeDesc": "Fast response times to ease concerns when speed is essential."
+  },
+  "productReveal": {
+    "tryAurora": "Experience Project Aurora",
+    "headline": "A gentle touch, intelligent guidance.",
+    "tabs": {
+      "photo": {
+        "title": "Take a photo.",
+        "description": "Instantly capture eruptions, skin conditions, diaper content or general physical signs with ease."
+      },
+      "sound": {
+        "title": "Record a sound.",
+        "description": "Record your baby's cry. Our deep learning audio analysis highlights acoustic features for context."
+      },
+      "guidance": {
+        "title": "Get guidance in seconds.",
+        "description": "Get practical and reassuring advice instantly. Powered by Bedrock to assist you in the early days."
+      }
+    }
+  },
+  "securityVision": {
+    "privacyData": "Privacy & Data",
+    "trustFoundation": "Your trust is our foundation.",
+    "features": {
+      "privateImages": {
+        "title": "Images remain private.",
+        "description": "All photos are end-to-end encrypted and never shared or sold."
+      },
+      "secureCloud": {
+        "title": "Secure cloud infrastructure.",
+        "description": "Hosted on AWS with strict HIPAA-aligned security controls."
+      },
+      "transparentProcessing": {
+        "title": "Transparent processing.",
+        "description": "Zero hidden models or algorithms. Always see the reasoning."
+      },
+      "securityFirst": {
+        "title": "Security-first approach.",
+        "description": "Developed with pediatric advisors to avoid false alerts."
+      }
+    },
+    "vision": {
+      "title": "Our Vision",
+      "headline": "A future where parents feel supported.",
+      "description": "We believe every parent deserves access to reliable guidance during the moments that matter most. We won't rest until neonatal support is universally accessible, simple, and full of care."
+    }
+  },
+  "workflow": {
+    "processTitle": "The Process",
+    "mainHeadline": "Powered by AI. Designed for parents.",
+    "steps": {
+      "capture": {
+        "title": "Capture",
+        "description": "Record a cry or take a photo of the baby's physical symptoms using our simple web interface."
+      },
+      "upload": {
+        "title": "Upload",
+        "description": "Instantly and securely upload data to AWS serverless servers with standard end-to-end encryption."
+      },
+      "analyze": {
+        "title": "Analyze",
+        "description": "Deep learning models dissect cry frequency or scan images for clinical indicators."
+      },
+      "understand": {
+        "title": "Understand",
+        "description": "Receive structured advice explaining what symptoms likely suggest in plain language for parents."
+      },
+      "act": {
+        "title": "Act",
+        "description": "Apply comforting advice, soothe your baby or know exactly when to call your pediatrician."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© {year} BabyHealth, Inc. All rights reserved.",
+    "projectAurora": "PROJECT AURORA",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "hipaa": "HIPAA Compliance"
+  },
+  "finalCta": {
+    "start": "Get Started",
+    "title": "The first step in caring is understanding.",
+    "description": "Discover how BabyHealth supports parents and clinics with trusted AI-powered neonatal guidance.",
+    "successTitle": "We've received your request!",
+    "successDescription": "Our team will be in touch with you soon at <strong>{email}</strong>.",
+    "form": {
+      "emailPlaceholder": "Enter your email address",
+      "submitButton": "Request Access"
+    }
+  },
+  "emotionalStory": {
+    "step1": {
+      "time": "The quiet hour",
+      "timeValue": "02:13 AM"
+    },
+    "step2": {
+      "babyCrying": "Your baby is crying."
+    },
+    "step3": {
+      "notSureWhy": "You're not sure why."
+    },
+    "step4": {
+      "shouldWorry": "Should you worry?"
+    },
+    "step5": {
+      "shouldWait": "Should you wait?"
+    },
+    "step6": {
+      "newDawn": "A New Dawn",
+      "guidanceAvailable": "What if guidance was always available?",
+      "description": "Providing clarity in moments when uncertainty is at its strongest."
+    }
+  },
+  "whyBabyHealth": {
+    "header": {
+      "mission": "Why we built it",
+      "title": "Clarity in the chaos of early parenthood"
+    },
+    "description": "Parenting a newborn is overwhelming. We built BabyHealth to cut through the noise and give parents clear, actionable guidance when they need it most.",
+    "quote": "\"Access to reliable guidance should not depend on time of day, location, or the anxiety of uncertainty.\"",
+    "purpose": "We created Project Aurora to serve as a warm, responsive digital hand to guide you, helping you understand when to soothe, when to wait, and when to seek clinical care.",
+    "transparency": {
+      "title": "Transparency and safety first",
+      "subtitle": "Technology that supports. Never replaces.",
+      "description": "We believe in ethical AI. This is exactly what BabyHealth does and what we strictly avoid."
+    },
+    "positives": {
+      "title": "What we provide",
+      "guidanceAndReassurance": "Guidance & reassurance",
+      "realTimeAudioVisual": "Real-time audio & visual analysis",
+      "structuredEducationalInfo": "Structured educational information"
+    },
+    "negatives": {
+      "title": "What we never do",
+      "clinicalDiagnoses": "Provide clinical diagnoses",
+      "prescriptionsMedication": "Prescribe medications",
+      "replacementPediatricians": "Replace pediatricians"
+    }
+  },
+  "disclaimer": {
+    "title": "Disclaimer",
+    "description": "BabyHealth does not provide medical services. Always consult a healthcare professional for clinical concerns."
+  },
+  "awsArchitecture": {
+    "header": {
+      "label": "Architecture Overview",
+      "title": "How BabyHealth Works",
+      "description": "A seamless flow from user input to intelligent insights, powered by AWS services."
+    },
+    "nodes": {
+      "flutter": {
+        "title": "Flutter Web App",
+        "description": "User interface where parents capture symptoms via photo or audio.",
+        "badge": "Frontend"
+      },
+      "gateway": {
+        "title": "API Gateway",
+        "description": "Securely routes data to backend services with authentication and throttling.",
+        "badge": "Entry Point"
+      },
+      "lambda": {
+        "title": "Lambda Functions",
+        "description": "Processes and validates incoming data before forwarding to AI services.",
+        "badge": "Processing"
+      },
+      "bedrock": {
+        "title": "Amazon Bedrock",
+        "description": "Powers the AI analysis engine for accurate symptom interpretation.",
+        "badge": "AI Engine"
+      },
+      "dynamodb": {
+        "title": "DynamoDB",
+        "description": "Securely stores user data and interaction history with encryption.",
+        "badge": "Data Storage"
+      }
+    },
+    "telemetry": {
+      "status": "Pipeline Status",
+      "connected": "Connected to backend services",
+      "avgLatency": "Average Latency",
+      "uptime": "System Uptime"
+    }
+  },
+  "preloader": {
+    "tagline": "Caring for those who matter most."
+  },
+  "meta": {
+    "title": "BabyHealth - Every cry tells a story",
+    "description": "Project Aurora: AI-powered neonatal guidance for the earliest days of life. Reliable and real-time support when you need it most.",
+    "keywords": ["baby health", "neonatal AI assistant", "baby cry analyzer", "parent support", "pediatric guidance"],
+    "author": "BabyHealth Team"
+  }
+}
