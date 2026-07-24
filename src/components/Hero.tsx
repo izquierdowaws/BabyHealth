@@ -168,7 +168,7 @@ export default function Hero() {
           <p
             className="font-sans text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed bg-clip-text text-transparent bg-gradient-to-r from-[#2B7A7A] via-[#DF7B5E] to-[#DF7B5E]"
           >
-            Entendiendo el llanto de tu bebé, un paso a la vez.
+            {t('hero.subheadline')}
           </p>
 
           {/* CTAs */}

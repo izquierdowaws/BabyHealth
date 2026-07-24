@@ -9,40 +9,40 @@ export default function AWSArchitecture() {
   const nodes = [
     {
       id: "flutter",
-      title: 'App Móvil Flutter',
-      desc: 'Aplicación móvil multiplataforma para capturar y enviar audio del bebé',
+      title: t('awsArchitecture.nodes.flutter.title'),
+      desc: t('awsArchitecture.nodes.flutter.description'),
       icon: Smartphone,
       color: "from-blue-500 to-[#73D2D2]",
-      badge: 'Flutter',
+      badge: t('awsArchitecture.nodes.flutter.badge'),
     },
     {
       id: "gateway",
-      title: 'API Gateway',
-      desc: 'Puerta de enlace segura para recibir y procesar solicitudes entrantes',
+      title: t('awsArchitecture.nodes.gateway.title'),
+      desc: t('awsArchitecture.nodes.gateway.description'),
       icon: Cloud,
       color: "from-[#4B9B9B] to-cyan-500",
-      badge: 'Seguro',
+      badge: t('awsArchitecture.nodes.gateway.badge'),
     },
     {
       id: "lambda",
-      title: 'Lambda',
-      desc: 'Funciones sin servidor para procesamiento de audio y extracción de características',
+      title: t('awsArchitecture.nodes.lambda.title'),
+      desc: t('awsArchitecture.nodes.lambda.description'),
       icon: Server,
       color: "from-[#DF7B5E] to-amber-500",
-      badge: 'Procesamiento',
+      badge: t('awsArchitecture.nodes.lambda.badge'),
     },
     {
       id: "bedrock",
-      title: 'Bedrock',
-      desc: 'Modelos de IA de Amazon para análisis de patrones de llanto y recomendaciones',
+      title: t('awsArchitecture.nodes.bedrock.title'),
+      desc: t('awsArchitecture.nodes.bedrock.description'),
       icon: Cpu,
       color: "from-purple-500 to-indigo-500",
-      badge: 'IA',
+      badge: t('awsArchitecture.nodes.bedrock.badge'),
     },
     {
       id: "dynamodb",
-      title: 'Base de Datos',
-      desc: 'Almacenamiento seguro y escalable para datos de salud infantil',
+      title: t('awsArchitecture.nodes.dynamodb.title'),
+      desc: t('awsArchitecture.nodes.dynamodb.description'),
       icon: Database,
       color: "from-emerald-500 to-teal-500",
       badge: t('awsArchitecture.nodes.dynamodb.badge'),
@@ -60,13 +60,13 @@ export default function AWSArchitecture() {
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-20">
           <span className="font-accent text-[#73D2D2] text-xs font-semibold uppercase tracking-wider block mb-3">
-            Arquitectura de AWS
+            {t('awsArchitecture.header.label')}
           </span>
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] mb-4 text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            Arquitectura de AWS para BabyHealth
+            {t('awsArchitecture.header.title')}
           </h2>
           <p className="font-sans text-sm md:text-base text-[#7B7974] max-w-xl mx-auto font-light">
-            Arquitectura serverless totalmente gestionada para análisis de llanto de bebés en tiempo real
+            {t('awsArchitecture.header.description')}
           </p>
         </div>
 

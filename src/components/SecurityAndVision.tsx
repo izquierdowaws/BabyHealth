@@ -100,10 +100,10 @@ export default function SecurityAndVision() {
             <div className="lg:col-span-7 space-y-8">
               <div>
                 <span className="font-accent text-[#4B9B9B] text-xs font-semibold uppercase tracking-wider block mb-3">
-                  Seguridad y Visión
+                  {t('securityVision.privacyData')}
                 </span>
                 <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] bg-clip-text text-transparent bg-gradient-to-r from-[#2A2A28] to-[#2B7A7A] group-hover:scale-[1.02] transition-transform duration-300">
-                  Confianza Built In
+                  {t('securityVision.trustFoundation')}
                 </h2>
               </div>
 

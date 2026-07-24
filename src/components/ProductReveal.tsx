@@ -25,21 +25,21 @@ export default function ProductReveal() {
   // Content for tabs
   const tabDetails = {
     photo: {
-      title: 'Foto',
+      title: t('productReveal.tabs.photo.title'),
       desc: t('productReveal.tabs.photo.description'),
       icon: Camera,
       color: "#DF7B5E",
       image: "/pic01.png", // Fallback to pic01.png
     },
     sound: {
-      title: 'Sonido',
+      title: t('productReveal.tabs.sound.title'),
       desc: t('productReveal.tabs.sound.description'),
       icon: Mic,
       color: "#4B9B9B",
       image: "/pic03.png", // Fallback to pic03.png
     },
     guidance: {
-      title: 'Guía',
+      title: t('productReveal.tabs.guidance.title'),
       desc: t('productReveal.tabs.guidance.description'),
       icon: Sparkles,
       color: "#73D2D2",
@@ -59,12 +59,12 @@ export default function ProductReveal() {
           {/* Left Text Content */}
           <div className="lg:col-span-5 flex flex-col justify-center relative z-10">
             <span className="font-accent text-[#4B9B9B] text-xs font-semibold uppercase tracking-wider mb-3 inline-flex items-center gap-2">
-              Probá Aurora
+              {t('productReveal.tryAurora')}
               <span className="w-1.5 h-1.5 rounded-full bg-[#4B9B9B]/50" />
             </span>
             <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] mb-8 bg-clip-text text-transparent bg-gradient-to-r from-[#2A2A28] to-[#2B7A7A] group-hover:scale-[1.02] transition-transform duration-300">
-            Scanea, escucha, entiende
-          </h2>
+              {t('productReveal.headline')}
+            </h2>
 
             {/* Feature Selectors */}
             <div className="space-y-4">
@@ -138,7 +138,7 @@ export default function ProductReveal() {
                     <span className="font-serif font-bold text-xs text-[#2A2A28]">BabyHealth</span>
                   </div>
                   <span className="text-[10px] font-semibold text-[#4B9B9B] uppercase tracking-wider">
-                    En línea
+                    {t('productReveal.online')}
                   </span>
                 </div>
 

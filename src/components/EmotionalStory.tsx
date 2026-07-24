@@ -49,10 +49,10 @@ export default function EmotionalStory() {
           className="absolute text-center"
         >
           <span className="font-accent text-[#FAF7F4] text-xs font-semibold uppercase tracking-[0.3em] mb-4 block">
-            02:13 AM
+            {t('emotionalStory.step1.time')}
           </span>
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            02:13 AM
+            {t('emotionalStory.step1.timeValue')}
           </h2>
         </motion.div>
 
@@ -62,7 +62,7 @@ export default function EmotionalStory() {
           className="absolute text-center max-w-4xl"
         >
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            Tu bebé está llorando.
+            {t('emotionalStory.step2.babyCrying')}
           </h2>
         </motion.div>
 
@@ -72,7 +72,7 @@ export default function EmotionalStory() {
           className="absolute text-center max-w-4xl"
         >
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            No estás seguro de por qué.
+            {t('emotionalStory.step3.notSureWhy')}
           </h2>
         </motion.div>
 
@@ -82,7 +82,7 @@ export default function EmotionalStory() {
           className="absolute text-center max-w-4xl"
         >
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            ¿Deberías preocuparte?
+            {t('emotionalStory.step4.shouldWorry')}
           </h2>
         </motion.div>
 
@@ -92,7 +92,7 @@ export default function EmotionalStory() {
           className="absolute text-center max-w-4xl"
         >
           <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] text-[#FFFFFF] group-hover:scale-[1.02] transition-transform duration-300">
-            ¿Deberías esperar?
+            {t('emotionalStory.step5.shouldWait')}
           </h2>
         </motion.div>
 

@@ -34,8 +34,8 @@ export default function WhyBabyHealth() {
             </div>
 
             <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.15] bg-clip-text text-transparent bg-gradient-to-r from-[#2A2A28] to-[#2B7A7A] group-hover:scale-[1.02] transition-transform duration-300">
-            ¿Por qué Aurora?
-          </h2>
+              {t('whyBabyHealth.header.title')}
+            </h2>
 
             <p className="font-sans text-[#4A4946]/90 text-lg font-light leading-relaxed">
               {t('whyBabyHealth.description')}

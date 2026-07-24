@@ -27,15 +27,15 @@ export default function FinalCTA() {
         >
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#DF7B5E]/10 text-[#DF7B5E] text-xs font-semibold uppercase tracking-wider mb-6">
             <Sparkles className="w-3.5 h-3.5" />
-            Empezar
+            {t('finalCta.start')}
           </div>
 
           <h2 className="font-serif text-5xl md:text-7xl font-bold tracking-tight leading-[1.15] mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#2A2A28] to-[#2B7A7A] group-hover:scale-[1.02] transition-transform duration-300">
-            Descubre BabyHealth
+            {t('finalCta.title')}
           </h2>
 
           <p className="font-sans text-lg md:text-xl text-[#4A4946] font-light max-w-xl mx-auto mb-10 leading-relaxed">
-            La forma más inteligente de entender y responder al llanto de tu bebé.
+            {t('finalCta.description')}
           </p>
 
           {/* Access CTA */}
@@ -45,7 +45,7 @@ export default function FinalCTA() {
             whileTap={{ scale: 0.98 }}
             className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl text-sm font-semibold text-white bg-[#2B7A7A] hover:bg-[#2A2A28] transition-all shadow-md"
           >
-            Acceder ahora
+            {t('finalCta.form.submitButton')}
             <ArrowRight className="w-4 h-4" />
           </motion.a>
         </motion.div>
