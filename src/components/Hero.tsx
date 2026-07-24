@@ -49,7 +49,7 @@ export default function Hero() {
           <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-[#4B9B9B] via-[#73D2D2] to-[#DF7B5E] flex items-center justify-center shadow-md">
             <Sparkles className="w-5 h-5 text-white" />
           </div>
-          <span className="font-serif font-bold text-xl text-[#2A2A28] tracking-wide">Aurora</span>
+          <span className="font-serif font-bold text-xl text-[#2A2A28] tracking-wide">BabyHealth</span>
         </motion.div>
 
         <motion.div

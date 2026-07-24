@@ -31,7 +31,7 @@ export default function FinalCTA() {
           </div>
 
           <h2 className="font-serif text-5xl md:text-7xl font-bold tracking-tight leading-[1.15] mb-6 bg-clip-text text-transparent bg-gradient-to-r from-[#2A2A28] to-[#2B7A7A] group-hover:scale-[1.02] transition-transform duration-300">
-            Descubre Aurora
+            Descubre BabyHealth
           </h2>
 
           <p className="font-sans text-lg md:text-xl text-[#4A4946] font-light max-w-xl mx-auto mb-10 leading-relaxed">
